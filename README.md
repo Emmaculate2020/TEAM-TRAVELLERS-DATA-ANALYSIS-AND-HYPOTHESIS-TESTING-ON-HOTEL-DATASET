@@ -16,7 +16,9 @@
 - Identify the top countries that guests came from
 - Identify the meal package guests were on during the different months
 - Investigate the claim that on average, the customers who stay in resort hotels are transients. The hypothesis is as follows:
+
               - Ho: On average, the customers who stay in resort hotels are transients
+              
               - Ha: On average, the customers who stay in resort hotels are not transients
 
 ### Experimental Design
