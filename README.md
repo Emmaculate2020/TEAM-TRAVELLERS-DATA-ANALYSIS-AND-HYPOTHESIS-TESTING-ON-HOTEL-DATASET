@@ -33,7 +33,9 @@
 
 - Sampling
 
-- Hypothesis Testing;
+- Hypothesis Testing
+
+- Tableau Visualizations
      
 ### Tools Required
 
@@ -42,6 +44,8 @@
 - Google Colab
 
 - Python Libraries
+
+- Tableau Desktop
 
 - Github
 
