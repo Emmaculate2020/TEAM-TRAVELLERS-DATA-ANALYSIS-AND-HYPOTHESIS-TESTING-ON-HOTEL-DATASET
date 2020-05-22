@@ -9,7 +9,7 @@
   ##### 4. Emmaculate Okong'o
   
   
-  ### Objectives
+### Objectives
 
 - Identify the most popular time of year when hotel rooms are booked
 - Predict if a guest is likely to cancel their reservation
