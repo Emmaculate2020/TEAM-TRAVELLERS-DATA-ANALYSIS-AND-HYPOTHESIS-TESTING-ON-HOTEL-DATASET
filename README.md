@@ -11,11 +11,11 @@
   
 ### Objectives
 
-- Identify the most popular time of year when hotel rooms are booked
-- Predict if a guest is likely to cancel their reservation
-- Identify the top countries that guests came from
-- Identify the meal package guests were on during the different months
-- Investigate the claim that on average, the customers who stay in resort hotels are transients. The hypothesis is as follows:
+- To identify the most popular time of year when hotel rooms are booked
+- To predict if a guest is likely to cancel their reservation
+- To identify the top countries that guests came from
+- To identify the meal package guests were on during the different months
+- To investigate the claim that on average, the customers who stay in resort hotels are transients. The hypothesis is as follows:
 
                Ho: On average, the customers who stay in resort hotels are transients
               
@@ -23,7 +23,7 @@
 
 ### Experimental Design
 
-- Data Understanding through exploration of the dataset.
+- Data Understanding through exploration of the dataset
 
 - Data Cleaning
 
@@ -37,7 +37,7 @@
      
 ### Tools Required
 
-- Dataset from Kaggle []
+- Dataset from Kaggle; Hotel_bookings [https://www.kaggle.com/jessemostipak/hotel-booking-demand]
 
 - Google Colab
 
@@ -45,9 +45,9 @@
 
 - Github
 
-- Google docs
+- Google docs [https://docs.google.com/document/d/1DfIrt19efMgossJW88WOWtqTPG9pBN09Kfz6W4AJPNA/edit#heading=h.mn6qs42f0x7z]
 
-- Google Slides
+- Google Slides [https://docs.google.com/presentation/d/1Sula0oOjbcCxe21bhb47ItbjZGZ_q1_HOQnUleD0XVc/edit#slide=id.g8728867814_0_142]
 
 ### Known Bugs
 
